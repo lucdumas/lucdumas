@@ -1,5 +1,5 @@
 
-![](https://i.imgur.com/uK9qSO8.png)
+![](https://i.imgur.com/2QqqmVr.png)
 
 I'm a Software Engineer based in New York City. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React.
 
