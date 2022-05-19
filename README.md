@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, my name is Luc</h1>
+### Hi there 👋, My name is Ibrahim
 <h3 align="center">I'm a Software Engineer based in New York City. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React.</h3>
 
 - 💬 Ask me about **React ⚛️**
