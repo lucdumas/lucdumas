@@ -1,7 +1,7 @@
 
 ![](https://i.imgur.com/2QqqmVr.png)
 
-I'm a Software Engineer based in New York City. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React.
+I'm a Software Engineer based in Philadelphia, PA. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
@@ -14,7 +14,6 @@ I'm a Software Engineer based in New York City. I am proficient in both Frontend
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
  <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="50" height="40"/>
  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="50"/>
 
