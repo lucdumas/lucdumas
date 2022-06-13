@@ -1,7 +1,7 @@
 
 ![](https://i.imgur.com/2QqqmVr.png)
 
-I'm a Software Engineer based in Philadelphia, PA. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React.
+I'm a Software Engineer. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
