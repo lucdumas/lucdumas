@@ -1,7 +1,7 @@
 
 ![](https://i.imgur.com/2QqqmVr.png)
 
-I'm a Software Engineer proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React.
+I'm a Software Engineer proficient in both Frontend development and Backend development. I have knowledge in HTML, CSS, Javascript, Node.Js, Express, MongoDB, and React.
 
 See [my website](https://lucdumas.netlify.app/) for more information!
 
