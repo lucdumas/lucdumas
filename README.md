@@ -57,9 +57,6 @@ I'm a Software Engineer proficient in both Frontend development and Backend deve
       </p>
         <p><strong>Full-Stack MERN Application</strong> - Website where users can log on to mark different trail heads on the map!</p>
     </td>
-   
-   
-   
     <td width="50%" valign="top">
      
       <h3 align="center">Rigley 2: "Flappy Bug"</h3>
