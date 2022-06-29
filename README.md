@@ -55,9 +55,13 @@ I'm a Software Engineer proficient in both Frontend development and Backend deve
   
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+        <p><strong>Full-Stack MERN Application</strong> - Website where users can log on to mark different trail heads on the map!</p>
     </td>
+   
+   
+   
     <td width="50%" valign="top">
+     
       <h3 align="center">Rigley 2: "Flappy Bug"</h3>
         <br />
       <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
@@ -66,6 +70,12 @@ I'm a Software Engineer proficient in both Frontend development and Backend deve
         <br />
         <p align="center">
           
+         
+         
+         
+         
+         
+         
   <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
