@@ -3,6 +3,8 @@
 
 I'm a Software Engineer proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React.
 
+See [my website](https://lucdumas.netlify.app/) for more information!
+
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
@@ -36,10 +38,11 @@ I'm a Software Engineer proficient in both Frontend development and Backend deve
 <br/>
 
 ### My Projects 
-<table bordercolor="#66b2b2">
+
+ <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="50%" valign="top">
+   <td width="50%" valign="top">
       <h3 align="center">TrailHead Map</h3>
         <br />
         <a target="_blank" href="https://traily.netlify.app/">
@@ -57,71 +60,97 @@ I'm a Software Engineer proficient in both Frontend development and Backend deve
       </p>
         <p><strong>Full-Stack MERN Application</strong> - Website where users can log on to mark different trail heads on the map!</p>
     </td>
-    <td width="50%" valign="top">
-     
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+     <td width="50%" valign="top">
+      <h3 align="center">Portfolio Site</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+        <a target="_blank" href="https://lucdumas.netlify.app/">
+            <img src="portfolio.gif" width="100%" alt="Portfolio App"/>
         </a>
         <br />
         <p align="center">
           
-         
-         
-         
-         
-         
-         
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+  <a href="https://github.com/lucdumas/portfoliosite" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>  
+  <a href="https://github.com/lucdumas/portfoliosite" target="_blank">
+  
   </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
-    </td>
+      <p><strong>HTML5, CSS3, SASS & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        </td>
   </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
-      <br />
-        <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+      <h3 align="center">Library</h3>
+        <br />
+        <a target="_blank" href="https://library-heroku-application.herokuapp.com/">
+            <img src="library.gif" width="100%" alt="Library"/>
         </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+        <br />
+        <p align="center">          
+  <a href="https://github.com/lucdumas/libraryProject" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="http://shawncharles.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>  
+  <a href="https://github.com/lucdumas/libraryProject" target="_blank">
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td>
+      <p><strong>JavaScript, Express, NodeJS and MongoDb.</strong> -This application allows a user to add, delete, search, and browse through a collection of books. </p>
+        </td>
+   <td width="50%" valign="top">
+      <h3 align="center">Sandkamp Woodworks</h3>
+        <br />
+        <a target="_blank" href="https://sandkampwoodworks.netlify.app/">
+            <img src="ts.gif" width="100%" alt="Library"/>
+        </a>
+        <br />
+        <p align="center"> 
+  <a href="https://github.com/lucdumas/SandkampWoodworks" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://github.com/lucdumas/SandkampWoodworks" target="_blank">
+  </a>
+      </p>
+      <p><strong>Html, CSS, SASS, and JS</strong> - Client website that clearly displayed their work and contact information</p>
+        </td>
+  </tr>
+  
+  <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center">ADV Routes</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="https://advroutes.netlify.app/">
+            <img src="adv.gif" width="100%" alt="Library"/>
         </a>
         <br />
         <p align="center">
-          
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+  <a href="https://github.com/lucdumas/adv_application" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>  
+  <a href="https://github.com/lucdumas/adv_application" target="_blank">
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
-    </td>
+      <p><strong> HTML, CSS, JavaScript, and Tailwind</strong> - An application where users can track adventure motorcycling routes.</p>
+        </td>
+   <td width="50%" valign="top">
+      <h3 align="center">JJ Construction</h3>
+        <br />
+        <a target="_blank" href="https://jjconstruction.netlify.app/">
+            <img src="jjconstruction.gif" width="100%" alt="jj"/>
+        </a>
+        <br />
+        <p align="center">   
+  <a href="https://github.com/lucdumas/JJconstruction" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://github.com/lucdumas/JJconstruction" target="_blank">
+  </a>
+      </p>
+      <p><strong> HTML, CSS, and JavaScript </strong> - This project includes flexbox and grid layouts and was designed for responsive window sizing. </p>
+        </td>
   </tr>
 </table>
+ 
 
 ## Connect with me  
 
