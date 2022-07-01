@@ -58,7 +58,7 @@ See [my website](https://lucdumas.netlify.app/) for more information!
   
   </a>
       </p>
-        <p><strong>Full-Stack MERN Application</strong> - Website where users can log on to mark different trail heads on the map!</p>
+        <p><strong>Full-Stack MERN Application</strong> - Client application where users can log on to mark different trail heads on the map!</p>
     </td>
      <td width="50%" valign="top">
       <h3 align="center">Portfolio Site</h3>
@@ -111,7 +111,7 @@ See [my website](https://lucdumas.netlify.app/) for more information!
   <a href="https://github.com/lucdumas/SandkampWoodworks" target="_blank">
   </a>
       </p>
-      <p><strong>Html, CSS, SASS, and JS</strong> - Client website that clearly displayed their work and contact information</p>
+      <p><strong>Html, CSS, SASS, and JS</strong> - Client application that displays their portfolio as well as contact information</p>
         </td>
   </tr>
   
