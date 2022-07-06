@@ -3,7 +3,7 @@
 
 I'm a Software Engineer proficient in both Frontend development and Backend development. I have knowledge in HTML, CSS, Javascript, Node.Js, Express, MongoDB, and React.
 
-See [my website](https://lucdumas.netlify.app/) for more information!
+See [my website](https://lucdumas.netlify.app/) for more about me, links to my projects, and contact information!
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
