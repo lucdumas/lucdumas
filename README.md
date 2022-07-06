@@ -135,7 +135,7 @@ See [my website](https://lucdumas.netlify.app/) for more about me, links to my p
    <td width="50%" valign="top">
       <h3 align="center">JJ Construction</h3>
         <br />
-        <a target="_blank" href="https://jjconstruction.netlify.app/">
+        <a target="_blank" href="https://jj-construction.netlify.app/">
             <img src="jjconstruction.gif" width="100%" alt="jj"/>
         </a>
         <br />
